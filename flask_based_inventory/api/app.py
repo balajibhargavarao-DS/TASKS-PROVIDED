@@ -5,7 +5,7 @@ import google.generativeai as genai
 # -----------------------------------------
 # Configure Gemini API Key
 # -----------------------------------------
-genai.configure(api_key="AIzaSyC4q6EBVBd_oRgadBdpQIJs9ekx2BYeqKw")
+genai.configure(api_key="Api-key")
 
 # Choose a supported model (safer + fast)
 MODEL_NAME = "models/gemini-2.5-flash"
@@ -110,3 +110,4 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
