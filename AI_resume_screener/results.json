@@ -1,0 +1,44 @@
+[
+    {
+        "Balaji_Resume_updated.pdf": {
+            "name": "Balaji Bhargavarao",
+            "experience_years": 1.5,
+            "skills": [
+                "Python",
+                "SQL",
+                "Machine Learning",
+                "Natural Language Processing",
+                "NLP",
+                "Predictive Analytics",
+                "Time-series analysis",
+                "FastAPI",
+                "Regression",
+                "Classification",
+                "Clustering",
+                "Model Evaluation",
+                "Optimization",
+                "Cross-validation",
+                "Hyper-parameter tuning",
+                "Langchain",
+                "Langgraph",
+                "RAG",
+                "Model Context Protocol",
+                "Autogen",
+                "LLM",
+                "Deep Learning",
+                "MongoDB",
+                "GenAI",
+                "Workflow Automation",
+                "Pub/Sub",
+                "Streamlit",
+                "Agentic Development",
+                "Vector Search",
+                "XG-Boost",
+                "Neo4j",
+                "OpenAI GPT",
+                "FAISS"
+            ],
+            "match_score": 63
+        }
+    }
+]

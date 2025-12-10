@@ -1,0 +1,75 @@
+JOB DESCRIPTION — DATA SCIENTIST
+
+Job Title: Data Scientist
+Department: Analytics & AI
+Location: Bangalore / Remote
+Employment Type: Full-time
+
+Overview:
+We are seeking a highly skilled Data Scientist to join our Analytics & AI team. The ideal candidate has strong analytical skills, expertise in machine learning, and experience working with large datasets to derive meaningful insights. You will collaborate with cross-functional teams including engineering, product, and business stakeholders to build scalable data-driven solutions.
+
+Key Responsibilities:
+
+Analyze large structured and unstructured datasets to extract valuable insights.
+
+Build, train, and deploy machine learning and statistical models for classification, regression, forecasting, NLP, and clustering problems.
+
+Perform feature engineering, data cleansing, data preprocessing, and exploratory data analysis (EDA).
+
+Collaborate with engineering teams to design and implement data pipelines and model deployment workflows.
+
+Translate business requirements into technical data solutions.
+
+Present insights, results, and recommendations to stakeholders through dashboards, reports, and visualizations.
+
+Optimize models using hyperparameter tuning, cross-validation, and performance metrics.
+
+Work with cloud platforms (AWS, GCP, Azure) to manage large-scale data environments.
+
+Conduct A/B tests, evaluate experiments, and monitor model performance in production.
+
+Stay updated with the latest advancements in machine learning, deep learning, and data engineering.
+
+Required Skills and Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, Mathematics, Engineering, or a related field.
+
+2–5 years of experience working as a Data Scientist or related role.
+
+Strong knowledge of Python and data science libraries (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn).
+
+Experience with machine learning algorithms including regression, decision trees, random forests, gradient boosting, SVM, clustering, and neural networks.
+
+Experience with SQL and data querying.
+
+Hands-on knowledge of model deployment using tools such as Flask, FastAPI, Docker, or cloud ML services.
+
+Experience with deep learning frameworks such as TensorFlow or PyTorch is a plus.
+
+Familiarity with NLP techniques and libraries such as NLTK, SpaCy, or transformers is beneficial.
+
+Experience working with cloud environments like AWS, Google Cloud, or Azure.
+
+Strong analytical, problem-solving, and communication skills.
+
+Preferred Qualifications:
+
+Experience performing end-to-end ML lifecycle including MLOps.
+
+Familiarity with big data technologies (Spark, Hadoop, Databricks).
+
+Experience in designing scalable data pipelines.
+
+Understanding of CI/CD pipelines and automated model evaluation systems.
+
+What We Offer:
+
+Competitive salary and performance bonuses.
+
+Opportunity to work on cutting-edge data science projects.
+
+Collaborative and innovative work environment.
+
+Career development and learning opportunities.
+
+Flexible remote work options.
